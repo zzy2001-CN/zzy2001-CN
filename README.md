@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @zzy2001-CN
 - 👀 I’m interested in basketball
-- 🌱 I’m currently learning : deep learing algegorim
+- 🌱 I’m currently learning : deep learing and agent
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :e_mail zouziyang2001@163.com  QQ 780506389
-- 😄 Pronouns: ...
+- 😄 Pronouns: chinese
 - ⚡ Fun fact: ...
 
 <!---
