@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zzy2001-CN
-- 👀 I’m interested in basketball
+- 👀 Interested in photograph,basketball,folk music .....
 - 🌱 I’m currently learning : deep learing and agent
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :e_mail zouziyang2001@163.com 
