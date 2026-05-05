@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zzy2001-CN
 - 👀 Interested in photograph,basketball,folk music .....
-- 🌱 I’m currently learning : deep learing and agent
+- 🌱 Major: deep learing and agent
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :e_mail zouziyang2001@163.com 
 =
